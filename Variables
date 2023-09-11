@@ -1,0 +1,16 @@
+// Variables store values either numbers or strings
+let num = 7
+console.log(num)
+// we don't use let again when declaring variables
+num = 9
+console.log(num + 8)
+
+let username = "JKUAT"
+// variables can have characters
+// can have numbers except first position
+// can have special symbols $ and _
+username = 'Main Campus'
+// we use "" or '' when declaring strings undefined values
+console.log(username)
+// camel casing rule--(userName) the letter N is capital
+// snake casing rule--(user_name)   

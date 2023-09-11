@@ -1,2 +1,3 @@
-# JavascriptSyntax
+# JAVASCRIPT SYNTAX :THE BASICS
+
 Guiding Notes
