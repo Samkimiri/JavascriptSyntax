@@ -2,7 +2,7 @@
 
 Guiding Notes
 
-oops are used to repeat a block of code
+Loops: are used to repeat a block of code
 // While loop
 /*
 let i = 1; 
