@@ -1,0 +1,2 @@
+# JavascriptSyntax
+Guiding Notes
